@@ -1,2 +1,8 @@
 # Electricity Consumption Analysis
-This report explores power consumption patterns in three Swiss households to uncover insights on appliance usage trends. Interactive visualizations are employed to understand hourly and daily behaviors and provide suggestions based on the findings.
+This repository contains a comprehensive project on analyzing electricity consumption patterns. The project includes various scripts and notebooks demonstrating data preprocessing, analysis, and visualization techniques.
+
+Features: 
+- Data Preprocessing: Cleaning and transforming raw electricity consumption data.
+- Time Series Analysis: Methods for analyzing trends and patterns in electricity usage over time.
+- Predictive Modeling: Building and evaluating models to forecast future electricity consumption.
+- Visualization: Creating insightful visualizations to present findings.
